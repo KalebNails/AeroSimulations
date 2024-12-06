@@ -1,6 +1,7 @@
 # Heat and Flow Simulations
 
-This repository contains MATLAB codes for simulating 1D heat diffusion and 2D potential flow problems, using numerical methods commonly applied in aerospace and mechanical engineering. The repository includes projects focused on heat transfer in shuttle tiles and potential flow over airfoils.
+This repository contains MATLAB codes for simulating 1D heat diffusion and 2D potential flow problems, using numerical methods commonly applied in aerospace and mechanical engineering. The repository includes projects focused on heat transfer in shuttle tiles and potential flow over airfoils. These codes were developed as part of academic homework assignments and represent a learning process. While the implementations aim for accuracy, they may contain errors or areas for improvement. Feedback and corrections are welcome to enhance the code and foster further learning.
+
 
 ---
 
