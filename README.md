@@ -15,7 +15,7 @@ This repository contains MATLAB codes for simulating 1D heat diffusion and 2D po
     - [Potential Flow Simulations](#potential-flow-simulations)
 5. [Results and Visualizations](#results-and-visualizations)
 6. [Contributing](#contributing)
-7. [License](#license)
+
 
 ---
 
