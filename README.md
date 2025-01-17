@@ -38,6 +38,10 @@ Simulates 2D linearized potential flow over a 6% thick circular arc airfoil. Two
 - **Uniform Grid (411 x 201):** Uses Gauss-Seidel relaxation to compute steady-state flow.
 - **Non-Uniform Grid (141 x 51):** Refines the grid spacing near the airfoil for increased accuracy.
 
+![image](https://github.com/user-attachments/assets/d494b3ec-225c-4fe5-8935-dbf3619f0f25)
+
+![image](https://github.com/user-attachments/assets/afa8c565-0095-4c43-a7ca-70e5ea6e0e17)
+
 Features:
 - Steady-state solutions for elliptic PDEs.
 - Accurate boundary conditions for symmetry planes and freestream flow.
